@@ -41,6 +41,7 @@
     `Root pass` - не нужно вводить, просто `Enter`.
 
 `Результат`
+
 <img src="./img/result.PNG">
 
  
