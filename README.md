@@ -26,7 +26,7 @@
 
 ### Если вы не можете зайти в Google PowerShell:
 
-> Скачайте [Tor](https://www.torproject.org/download/) и попробуйте снов!
+> Скачайте [Tor](https://www.torproject.org/download/) и попробуйте снова!
 
 `Пример ошибки:` <br>
 <img src="./img/error-br.jpg">
