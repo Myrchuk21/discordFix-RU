@@ -33,7 +33,7 @@
 
 ### Если все таки не сработало!
 
-Переходим на этот [сайт](https://codeinterview.io/languages/powershell](https://codeinterview.io/demo?lang=powershell) .
+Переходим на этот [сайт](https://codeinterview.io/demo?lang=powershell) .
 
   1. Вписываем в консоль `Указано выше ✔`:
 <img src="./img/console.PNG">
