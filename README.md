@@ -10,7 +10,7 @@
 
   3. Вставляем следующую команду в консоль и ждем:
 
-`curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash`
+    curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
 
 <img src="./img/powershell.png">
 
@@ -33,7 +33,7 @@
 
 
 ### Публичный WARP.conf `💀 ОСТОРОЖНО` 
-          [Скачать](https://cdn.discordapp.com/attachments/1007444026821193739/1293291749380460676/WARP.conf?ex=6706d74d&is=670585cd&hm=c4b0f421706660b1bb5d4c58a8adb1af459cff63557429f6b6182ff59b513725&)
+[Скачать](https://cdn.discordapp.com/attachments/1007444026821193739/1293291749380460676/WARP.conf?ex=6706d74d&is=670585cd&hm=c4b0f421706660b1bb5d4c58a8adb1af459cff63557429f6b6182ff59b513725&)
 
 ### Если все еще нужна помощь. Писать сюда [клик](https://discord.com/channels/@me/1275177833160900649)
 
