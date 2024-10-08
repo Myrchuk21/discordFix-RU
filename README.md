@@ -12,7 +12,7 @@
 
 `curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash`
 
-<img src="./powershell.png">
+<img src="./img/powershell.png">
 
   4. В конце получаем ссылку, по которой нужно перейти и скачать уже готовый конфиг **WARP**;
 
