@@ -28,6 +28,8 @@
 
 > Скачайте [Tor](https://www.torproject.org/download/) и попробуйте снов!
 
+`Пример ошибки:`
+<img src=".img/error-br.jpg">
 
 ### Если все еще нужна помощь. Писать сюда [клик](https://discord.com/channels/@me/1275177833160900649)
 
