@@ -12,6 +12,8 @@
 
 `curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash`
 
+<img src="./powershell.png">
+
   4. В конце получаем ссылку, по которой нужно перейти и скачать уже готовый конфиг **WARP**;
 
   5. Теперь качаем клиент AmneziaWG с официального репозитория GitHub, в котором мы будем использовать этот конфиг - [здесь](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi)
@@ -21,3 +23,4 @@
   7. После проделанных действий выбираем сверху наш туннель и нажимаем **«Подключить»**.
 
 **В течение короткого времени всё должно заработать. Может потребоваться перезапустить Discord.**
+
