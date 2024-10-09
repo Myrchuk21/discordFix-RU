@@ -35,13 +35,13 @@
 
   1. Скачиваем AMNEZIA [Скачать](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi)
   2. Заходим сюда [Перейти](https://colab.research.google.com/)
-  3. `pip install google-colab-shell` > Нажимаем `Enter`
+  3. `pip install google-colab-shell` > Нажимаем `Enter`. Начинает установка.
   4. `from google_colab_shell import getshell` > Нажимаем `Enter` ждем 5 - 10 секунд.
   5.
 `getshell()`<br> 
   `getshell(height=400)` > Нажимаем `Enter` откроет консоль. <br>
   
-  6. `curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash` > Вписываем в консоль `Enter` и ждем конца запущенной задачи.
+  6. `curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash` > Вписываем в консоль `Enter` и ждем конца запущенной задачи (15-30 секунд). 
  
 ### Публичный WARP.conf `💀 ОСТОРОЖНО` 
 [Скачать](https://cdn.discordapp.com/attachments/1007444026821193739/1293291749380460676/WARP.conf?ex=6706d74d&is=670585cd&hm=c4b0f421706660b1bb5d4c58a8adb1af459cff63557429f6b6182ff59b513725&)
