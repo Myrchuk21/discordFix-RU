@@ -41,9 +41,7 @@
 `getshell()`<br> 
   `getshell(height=400)` > Нажимаем `Enter` откроет консоль. <br>
   
-  6. ```js
-curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
-``` > Вписываем в консоль `Enter` и ждем конца запущенной задачи (15-30 секунд). 
+  6. ```curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash``` > Вписываем в консоль `Enter` и ждем конца запущенной задачи (15-30 секунд). 
  
 ### Публичный WARP.conf `💀 ОСТОРОЖНО` 
 [Скачать](https://cdn.discordapp.com/attachments/1007444026821193739/1293291749380460676/WARP.conf?ex=6706d74d&is=670585cd&hm=c4b0f421706660b1bb5d4c58a8adb1af459cff63557429f6b6182ff59b513725&)
