@@ -25,13 +25,15 @@
   * После проделанных действий выбираем сверху наш туннель и нажимаем **«Подключить»**.
 </details>
 
-### Если вы не можете зайти в Google PowerShell:
+### Если вы не можете зайти в Google PowerShell: (относиться только к Вариант 1)
+<details>
+  <summary>Просмотреть</summary>
+  
+  * > Скачайте [Tor](https://www.torproject.org/download/) и попробуйте снова!
 
-> Скачайте [Tor](https://www.torproject.org/download/) и попробуйте снова!
-
-`Пример ошибки:` <br>
+  * `Пример ошибки:` <br>
 <img src="./img/error-br.jpg">
-
+</details>
 ### Вариант 2:
 <details>
   <summary>Просмотреть</summary>
