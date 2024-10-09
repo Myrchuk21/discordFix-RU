@@ -37,7 +37,8 @@
   2. Заходим сюда https://colab.research.google.com/ 
   3. pip install google-colab-shell
   4. from google_colab_shell import getshell
-  5.<br>getshell()<br>
+  5.
+getshell()<br>
   getshell(height=400)<br>
   
   6. curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash
