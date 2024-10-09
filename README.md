@@ -35,8 +35,8 @@
 
   1. Скачиваем AMNEZIA [Скачать](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi)
   2. Заходим сюда [Перейти](https://colab.research.google.com/)
-  3. `pip install google-colab-shell`
-  4. `from google_colab_shell import getshell`
+  3. `pip install google-colab-shell` > Нажимаем `Enter`
+  4. `from google_colab_shell import getshell` > Нажимаем `Enter` ждем 5 - 10 секунд.
   5.
 `getshell()`<br>
   `getshell(height=400)`<br>
