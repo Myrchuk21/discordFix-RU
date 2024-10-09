@@ -39,8 +39,7 @@
   * Заходим сюда [Перейти](https://colab.research.google.com/)
   * `pip install google-colab-shell` > Нажимаем `Enter`. Начинает установка.
   * `from google_colab_shell import getshell` > Нажимаем `Enter` ждем 5 - 10 секунд.
-  * 
-`getshell()`<br> 
+  * `getshell()`<br> 
   `getshell(height=400)` > Нажимаем `Enter` откроет консоль. <br>
   
   *  ```curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash``` > Вписываем в консоль `Enter` и ждем конца запущенной задачи (15-30 секунд).
