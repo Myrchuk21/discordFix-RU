@@ -39,7 +39,7 @@
   4. `from google_colab_shell import getshell` > Нажимаем `Enter` ждем 5 - 10 секунд.
   5.
 `getshell()`<br> 
-  `getshell(height=400)`<br> > Нажимаем `Enter` откроет консоль.
+  `getshell(height=400)` > Нажимаем `Enter` откроет консоль. <br>
   
   6. `curl -sSL https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh | bash` > Вписываем в консоль `Enter` и ждем конца запущенной задачи.
  
