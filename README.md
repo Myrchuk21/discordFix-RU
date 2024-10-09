@@ -33,7 +33,7 @@
 
 ### Вариант 2:
 <details>
-  <summary>Вариант 2</summary>
+  <summary>Просмотреть</summary>
   
   * Скачиваем AMNEZIA [Скачать](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi)
   * Заходим сюда [Перейти](https://colab.research.google.com/)
