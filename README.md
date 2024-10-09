@@ -34,6 +34,7 @@
   * `Пример ошибки:` <br>
 <img src="./img/error-br.jpg">
 </details>
+
 ### Вариант 2:
 <details>
   <summary>Просмотреть</summary>
