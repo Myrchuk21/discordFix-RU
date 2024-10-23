@@ -5,13 +5,13 @@
 ### Рабочий вариант 🏆:
   
   * Скачиваем AMNEZIA [Скачать](https://github.com/amnezia-vpn/amneziawg-windows-client/releases/download/1.0.0/amneziawg-amd64-1.0.0.msi)
-  * Заходим сюда [Перейти](https://terminator.aeza.net/en/))
+  * Заходим сюда [Перейти](https://terminator.aeza.net/en/)
   * Выбираем **Debian**
   * Вставляем команду:
 
   *  ```bash <(wget -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh)``` > Вписываем в консоль `Enter` и ждем конца запущенной задачи.
 
-### Вариант 1️⃣:
+### **[Не рабочий]** Вариант 1️⃣:
 <details>
   <summary>Просмотреть</summary>
   
@@ -44,7 +44,7 @@
 <img src="./img/error-br.jpg">
 </details>
 
-### Вариант 2️⃣:
+###  **[Не рабочий]** Вариант 2️⃣:
 <details>
   <summary>Просмотреть</summary>
   
