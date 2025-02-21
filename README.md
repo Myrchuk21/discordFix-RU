@@ -9,7 +9,7 @@
   * Выбираем **Debian**
   * Вставляем команду:
 
-        ```bash <(wget -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh)``` 
+        bash <(wget -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh)
 
 > Вписываем в консоль `Enter` и ждем конца запущенной задачи.
   *  Копируем ссылку и вставляем в браузер. Готово!
